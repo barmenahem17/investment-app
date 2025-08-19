@@ -20,3 +20,4 @@ npm run dev
 - [ ] פונקציות חישוב + בדיקות
 - [ ] API /api/refresh
 - [ ] דף תיק בסיסי
+Status: setup in progress (2025-08-19)
